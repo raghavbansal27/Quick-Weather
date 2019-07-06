@@ -17,6 +17,7 @@ HOW TO USE THIS PROGRAM?
    * Open cmd
    * Go to the file location using cd 
    * Write :> python quickWeather.py location
+   Or you can even create a batch file :)
 
 2. In Linux:
    * Open terminal 
